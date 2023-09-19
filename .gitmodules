@@ -1,0 +1,3 @@
+[submodule "telegram_api_for_bot"]
+	path = telegram_api_for_bot
+	url = https://github.com/xverizex/telegram_api_for_bot
